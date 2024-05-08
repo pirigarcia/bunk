@@ -732,30 +732,31 @@ ul.btn li:last-child {
 
 .test_box {
      padding: 40px 25px;
-     background: #141629;
+     background: #4c79f5;
+     
 }
 
 .testimonial_Carousel .test_box h4 {
-     font-size: 18px;
+     font-size: 12px;
      color: #fff;
      line-height: 18px;
      display: block;
      text-align: center;
-     text-transform: uppercase;
-     font-weight: 600;
+     font-weight: 500;
      padding: 23px 0px 0px 0px;
      text-align: left;
+     
 }
 
 .testimonial_Carousel .test_box span {
      color: #0556c4;
      display: block;
      text-align: left;
-     font-size: 17px;
+     font-size: 12px;
 }
 
 .testimonial_Carousel .test_box i {
-     font-size: 17px;
+     font-size: 12px;
      line-height: 28px;
      text-align: left;
      float: left;
@@ -764,7 +765,7 @@ ul.btn li:last-child {
 }
 
 .testimonial_Carousel .test_box p {
-     font-size: 17px;
+     font-size: 8px;
      line-height: 28px;
      color: #fff;
      text-align: left;
