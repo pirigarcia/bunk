@@ -223,7 +223,7 @@ button {
 }
 
 .theme_bg {
-     background: #38c8a8;
+     background: #ff0000;
 }
 
 .margin_top_30 {
@@ -293,13 +293,13 @@ ul.btn li:last-child {
      display: inline-block;
      padding: 7px 35px;
      border-radius: 10px;
-     color: #292e39 !important;
+     color: #000000 !important;
      font-size: 17px;
 }
 
 .login_btn a:hover {
      color: #fff !important;
-     background: #0808ff;
+     background: #ff0000;
 }
 
 
@@ -329,14 +329,14 @@ ul.btn li:last-child {
 
 .navigation.navbar-dark .navbar-nav .nav-link:focus,
 .navigation.navbar-dark .navbar-nav .nav-link:hover {
-     color: #51fe44;
+     color: #ff0000;
 }
 
 .navigation.navbar-dark .navbar-nav .active>.nav-link,
 .navigation.navbar-dark .navbar-nav .nav-link.active,
 .navigation.navbar-dark .navbar-nav .nav-link.show,
 .navigation.navbar-dark .navbar-nav .show>.nav-link {
-     color: #51fe44;
+     color: #ff0000;
 }
 
 .navbar-expand-md .navbar-nav {
@@ -365,8 +365,8 @@ ul.btn li:last-child {
 .header {
      width: 100%;
      padding: 20px 30px;
-     border-bottom: #000 solid 20px;
-     background-image: linear-gradient(to bottom, #1559b7, #4f7af3);
+     border-bottom: #ff0000 solid 20px;
+     background-image: linear-gradient(to bottom, #000000, #020202);
 }
 
 .logo a {
@@ -381,7 +381,7 @@ ul.btn li:last-child {
 /** banner section **/
 
 .banner_main {
-     background: url(../images/banner.jpg);
+     background: url(../images/babla.png);
      background-repeat: no-repeat;
      min-height: 700px;
      background-size: 100% 100%;
@@ -398,7 +398,7 @@ ul.btn li:last-child {
 
 .text-bg h1 {
      text-transform: uppercase;
-     color: #51fe44;
+     color: #ff0000;
      font-size: 90px;
      line-height: 80px;
      padding-bottom: 35px;
@@ -515,7 +515,7 @@ ul.btn li:last-child {
      line-height: 55px;
      font-weight: bold;
      padding: 0;
-     border-bottom: #0556c4 solid 1px;
+     border-bottom: #000000 solid 1px;
      max-width: 300px;
      margin: auto;
 }
@@ -527,7 +527,7 @@ ul.btn li:last-child {
 }
 
 .blu {
-     color: #0808ff;
+     color: #000000;
 }
 
 .read_more {
@@ -545,7 +545,7 @@ ul.btn li:last-child {
 }
 
 .read_more:hover {
-     background: #51fe44;
+     background: #ff0000;
      color: #fff;
      transition: ease-in all 0.5s;
 }
@@ -689,7 +689,7 @@ ul.btn li:last-child {
 }
 
 .blu {
-     color: #51fe44;
+     color: #ff0000;
      font-size: 17px;
      line-height: 28px;
      font-weight: 600;
@@ -732,7 +732,7 @@ ul.btn li:last-child {
 
 .test_box {
      padding: 40px 25px;
-     background: #4c79f5;
+     background: #000000;
      
 }
 
@@ -749,7 +749,7 @@ ul.btn li:last-child {
 }
 
 .testimonial_Carousel .test_box span {
-     color: #0556c4;
+     color: #030303;
      display: block;
      text-align: left;
      font-size: 16px;
@@ -780,11 +780,11 @@ ul.btn li:last-child {
      width: 18px;
      height: 18px;
      border-radius: 20px;
-     background: #0556c4;
+     background: #000000;
 }
 
 .testimonial_Carousel .carousel-indicators li.active {
-     background: #51fe44;
+     background: #ff0000;
 }
 
 #myCarousel .carousel-control-next-icon,
@@ -799,7 +799,7 @@ ul.btn li:last-child {
 /** footer **/
 
 .footer {
-     background: #141629;
+     background: #000000;
      padding-top: 85px;
      text-align: center;
 }
@@ -835,7 +835,7 @@ ul.location_icon li a {
 }
 
 ul.location_icon li a:hover {
-     color: #00ff00;
+     color: #ff0000;
 }
 
 .main_form {
@@ -882,7 +882,7 @@ ul.location_icon li a:hover {
 }
 
 .main_form .send_btn:hover {
-     background-color: #00ff00;
+     background-color: #ff0000;
      transition: ease-in all 0.5s;
      color: #fff;
 }
@@ -913,7 +913,7 @@ ul.social_icon li a {
 }
 
 ul.social_icon li a:hover {
-     background-color: #00ff00;
+     background-color: #ff0000;
      color: #fff;
 }
 
@@ -952,7 +952,7 @@ ul.social_icon li a:hover {
 .sub_btn {
      font-size: 17px;
      transition: ease-in all 0.5s;
-     background-color: #00ff00;
+     background-color: #ff0000;
      color: #fff;
      padding: 11px 0px;
      max-width: 200px;
@@ -988,7 +988,7 @@ ul.social_icon li a:hover {
 }
 
 .copyright a:hover {
-     color: #00ff00;
+     color: #ff0000;
 }
 
 
