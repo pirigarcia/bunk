@@ -165,7 +165,7 @@ img {
 .btn-custom {
      margin-top: 20px;
      background-color: transparent !important;
-     border: 2px solid #ddd;
+     border: 2px solid #000000;
      padding: 12px 40px;
      font-size: 16px;
 }
@@ -511,11 +511,11 @@ ul.btn li:last-child {
 
 .titlepage h2 {
      font-size: 35px;
-     color: #090807;
+     color: #ffffff;
      line-height: 55px;
      font-weight: bold;
      padding: 0;
-     border-bottom: #000000 solid 1px;
+     border-bottom: #ffffff solid 1px;
      max-width: 300px;
      margin: auto;
 }
@@ -587,7 +587,7 @@ ul.btn li:last-child {
 /** about section **/
 
 .about {
-     background: #fff;
+     background: #ff0000;
      padding: 90px 0 0px 0;
 }
 
@@ -600,21 +600,21 @@ ul.btn li:last-child {
 }
 
 .about .about_img {
-     background: url(../images/about.png);
+     /* background: url(../images/about.png); */
      background-size: 100% 100%;
      text-align: center;
      min-height: 700px;
 }
 
 .about .about_box h3 {
-     color: #000;
+     color: #ffffff;
      font-size: 27px;
      line-height: 30px;
      font-weight: 500;
 }
 
 .about .about_box p {
-     color: #030303;
+     color: #ffffff;
      font-size: 17px;
      line-height: 28px;
      font-weight: 500;
@@ -710,11 +710,11 @@ ul.btn li:last-child {
 
 .testimonial {
      padding: 90px 0px 140px 0px;
-     background: #fff;
+     background: #000000;
 }
 
 .testimonial .titlepage p {
-     color: #141629;
+     color: #ff0000;
      line-height: 28px;
      font-weight: 500;
      font-size: 17px;
